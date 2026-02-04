@@ -4,6 +4,12 @@
 
 You've been discussing the fragmented student experience. Now build a piece of it.
 
+**User:** Internal support staff who need to look up students quickly
+
+**Goal:** Find a student and understand their full journey in one place
+
+---
+
 ## The Data
 
 You have anonymized data from 3 systems:
@@ -12,40 +18,68 @@ You have anonymized data from 3 systems:
 - `data/courses.json` — Course progress from Kajabi (modules, completion %)
 - `data/payments.json` — Payment history from Stripe (amounts, dates)
 
-**The join key is email** (it appears as `email`, `user_email`, or `customer_email` depending on the source).
+**The join key is email** (appears as `email`, `user_email`, or `customer_email` depending on source).
 
-## Your Task
+---
 
-Build a simple internal tool that shows a unified profile for a single student.
+## Requirements
 
-### Required
+### Tier 1: MVP (This is "done")
 
-1. **API endpoint:** `GET /api/students/:email`
-   - Returns unified student data from all three sources
+1. **Student List Page**
+   - Shows all students (name, status, coach)
+   - Clickable rows to view individual profile
 
-2. **Simple UI** that displays the profile
-   - Doesn't need to be pretty — functional is fine
+2. **Student Profile Page**
+   - Student info: name, email, status, coach
+   - Course progress: list of courses with completion %
+   - Payment summary: total paid, number of payments
 
-### The Profile Should Show
+**If you complete Tier 1, you've finished the exercise.**
 
-- Student name and status
-- Their coach
-- Course progress (which courses, completion %)
-- Payment history (total paid, last payment date)
+---
+
+### Tier 2: Better (If you have time)
+
+3. **Search/Filter**
+   - Search students by name or email
+   - Or filter by status (Active/Inactive)
+
+4. **Richer Profile**
+   - Last activity date
+   - List of individual payments with dates
+
+---
+
+### Tier 3: Exceptional (Bonus)
+
+5. **At-Risk Indicator**
+   - Visual flag for students with no recent course activity
+
+6. **Summary Stats**
+   - Total revenue across all students
+   - Count of students by status
+
+---
 
 ## Time
 
 20 minutes. Work however you normally work.
 
+---
+
 ## Notes
 
 - Use any AI tools you want — we want to see your real workflow
 - Ask questions if something is unclear
-- It's fine to not finish — we're watching how you work, not just the output
-- The starter code is minimal on purpose — build it your way
+- Completing Tier 1 is success — Tiers 2-3 are bonus
+- We're watching how you work, not just the output
 
-## Bonus (if you have time)
+---
 
-- List all students with a way to click into each profile
-- Show "at risk" indicator (e.g., no course activity in 30+ days)
-- Calculate total revenue per student
+## Technical Notes
+
+- Server runs at `http://localhost:3000`
+- Data is pre-loaded in `src/index.ts`
+- Frontend dev server at `http://localhost:5173`
+- Run `npm run dev` to start both
