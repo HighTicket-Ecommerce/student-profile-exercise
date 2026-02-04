@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI Engineering Scale</title>
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #1a1a2e;
+      color: #eee;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+    }
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+      margin-bottom: 1.5rem;
+      color: #fff;
+    }
+    .subtitle {
+      text-align: center;
+      font-size: 1.1rem;
+      color: #888;
+      margin-bottom: 2rem;
+    }
+    .image-container {
+      text-align: center;
+      margin-bottom: 1rem;
+    }
+    .image-container img {
+      max-width: 100%;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0,0,0,0.3);
+    }
+    .credit {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 2rem;
+    }
+    .credit a {
+      color: #6b8afd;
+      text-decoration: none;
+    }
+    .credit a:hover {
+      text-decoration: underline;
+    }
+    .scale-table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 1.1rem;
+    }
+    .scale-table th {
+      background: #16213e;
+      padding: 1rem;
+      text-align: left;
+      border-bottom: 2px solid #0f3460;
+    }
+    .scale-table td {
+      padding: 1rem;
+      border-bottom: 1px solid #2a2a4a;
+      vertical-align: top;
+    }
+    .scale-table tr:hover {
+      background: #1f1f3a;
+    }
+    .stage-num {
+      font-weight: 700;
+      font-size: 1.3rem;
+      color: #888;
+      width: 60px;
+    }
+    .stage-name {
+      font-weight: 600;
+      color: #fff;
+      width: 220px;
+    }
+    .stage-desc {
+      color: #bbb;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>The 8 Stages of AI Engineering</h1>
+    <p class="subtitle">Where would you place yourself on this scale?</p>
+
+    <div class="image-container">
+      <img src="ai-native-scale.png" alt="AI Native Scale Visualization">
+    </div>
+    <p class="credit">
+      Image credit: <a href="https://steve-yegge.medium.com/welcome-to-gas-town-4f25ee16dd04" target="_blank">Steve Yegge - "Welcome to Gas Town"</a>
+    </p>
+
+    <table class="scale-table">
+      <thead>
+        <tr>
+          <th>Stage</th>
+          <th>Name</th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td class="stage-num">1</td>
+          <td class="stage-name">Zero/Near-Zero</td>
+          <td class="stage-desc">Code completions only, sometimes ask Chat questions</td>
+        </tr>
+        <tr>
+          <td class="stage-num">2</td>
+          <td class="stage-name">IDE Agent, Permissions On</td>
+          <td class="stage-desc">Sidebar agent asks permission for each action (Y/N prompts)</td>
+        </tr>
+        <tr>
+          <td class="stage-num">3</td>
+          <td class="stage-name">IDE Agent, YOLO Mode</td>
+          <td class="stage-desc">Trust goes up, permissions off, agent runs autonomously</td>
+        </tr>
+        <tr>
+          <td class="stage-num">4</td>
+          <td class="stage-name">Wide IDE Agent</td>
+          <td class="stage-desc">Agent fills the screen, code is just for reviewing diffs</td>
+        </tr>
+        <tr>
+          <td class="stage-num">5</td>
+          <td class="stage-name">CLI, Single Agent, YOLO</td>
+          <td class="stage-desc">Terminal-based (Claude Code), diffs scroll by, may or may not look at them</td>
+        </tr>
+        <tr>
+          <td class="stage-num">6</td>
+          <td class="stage-name">CLI, Multi-Agent</td>
+          <td class="stage-desc">3-5 parallel instances running, very fast workflow</td>
+        </tr>
+        <tr>
+          <td class="stage-num">7</td>
+          <td class="stage-name">10+ Agents, Hand-Managed</td>
+          <td class="stage-desc">Pushing the limits of manual coordination</td>
+        </tr>
+        <tr>
+          <td class="stage-num">8</td>
+          <td class="stage-name">Building Own Orchestrator</td>
+          <td class="stage-desc">On the frontier, automating the workflow itself</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
