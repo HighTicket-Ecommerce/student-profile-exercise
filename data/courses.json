@@ -1,0 +1,191 @@
+[
+  {
+    "user_email": "howardshaun@example.net",
+    "course_name": "Advanced Scaling Strategies",
+    "modules_completed": 8,
+    "modules_total": 15,
+    "completion_percentage": 53.3,
+    "last_activity": "2026-01-21T15:31:31.121415Z",
+    "enrolled_date": "2026-01-23"
+  },
+  {
+    "user_email": "howardshaun@example.net",
+    "course_name": "Facebook Ads Blueprint",
+    "modules_completed": 2,
+    "modules_total": 8,
+    "completion_percentage": 25.0,
+    "last_activity": "2025-12-19T06:15:08.397138Z",
+    "enrolled_date": "2026-01-23"
+  },
+  {
+    "user_email": "howardshaun@example.net",
+    "course_name": "Store Builder Fundamentals",
+    "modules_completed": 10,
+    "modules_total": 15,
+    "completion_percentage": 66.7,
+    "last_activity": "2025-12-08T16:39:43.307430Z",
+    "enrolled_date": "2026-01-23"
+  },
+  {
+    "user_email": "harrellkenneth@example.net",
+    "course_name": "Advanced Scaling Strategies",
+    "modules_completed": 1,
+    "modules_total": 12,
+    "completion_percentage": 8.3,
+    "last_activity": "2025-12-22T03:09:52.010348Z",
+    "enrolled_date": "2026-01-29"
+  },
+  {
+    "user_email": "harrellkenneth@example.net",
+    "course_name": "Supplier Negotiation",
+    "modules_completed": 6,
+    "modules_total": 8,
+    "completion_percentage": 75.0,
+    "last_activity": "2026-01-29T03:13:00.084687Z",
+    "enrolled_date": "2026-01-29"
+  },
+  {
+    "user_email": "craigjoseph@example.net",
+    "course_name": "Product Research Mastery",
+    "modules_completed": 9,
+    "modules_total": 12,
+    "completion_percentage": 75.0,
+    "last_activity": "2026-01-07T21:00:43.173554Z",
+    "enrolled_date": "2026-01-28"
+  },
+  {
+    "user_email": "steven17@example.org",
+    "course_name": "Store Builder Fundamentals",
+    "modules_completed": 6,
+    "modules_total": 8,
+    "completion_percentage": 75.0,
+    "last_activity": "2026-01-14T17:30:16.794040Z",
+    "enrolled_date": "2026-01-24"
+  },
+  {
+    "user_email": "steven17@example.org",
+    "course_name": "Facebook Ads Blueprint",
+    "modules_completed": 8,
+    "modules_total": 8,
+    "completion_percentage": 100.0,
+    "last_activity": "2025-12-15T09:54:30.387028Z",
+    "enrolled_date": "2026-01-24"
+  },
+  {
+    "user_email": "vanessabuchanan@example.org",
+    "course_name": "Supplier Negotiation",
+    "modules_completed": 1,
+    "modules_total": 10,
+    "completion_percentage": 10.0,
+    "last_activity": "2025-12-30T01:04:28.424870Z",
+    "enrolled_date": "2026-01-28"
+  },
+  {
+    "user_email": "vanessabuchanan@example.org",
+    "course_name": "Product Research Mastery",
+    "modules_completed": 3,
+    "modules_total": 8,
+    "completion_percentage": 37.5,
+    "last_activity": "2026-01-28T23:32:49.226650Z",
+    "enrolled_date": "2026-01-28"
+  },
+  {
+    "user_email": "dsanchez@example.net",
+    "course_name": "Store Builder Fundamentals",
+    "modules_completed": 6,
+    "modules_total": 8,
+    "completion_percentage": 75.0,
+    "last_activity": "2026-01-10T20:54:07.312763Z",
+    "enrolled_date": "2026-01-29"
+  },
+  {
+    "user_email": "dsanchez@example.net",
+    "course_name": "Advanced Scaling Strategies",
+    "modules_completed": 7,
+    "modules_total": 12,
+    "completion_percentage": 58.3,
+    "last_activity": "2026-01-26T22:11:35.975034Z",
+    "enrolled_date": "2026-01-29"
+  },
+  {
+    "user_email": "cwood@example.org",
+    "course_name": "Product Research Mastery",
+    "modules_completed": 3,
+    "modules_total": 12,
+    "completion_percentage": 25.0,
+    "last_activity": "2025-12-14T12:39:57.448971Z",
+    "enrolled_date": "2026-01-24"
+  },
+  {
+    "user_email": "cwood@example.org",
+    "course_name": "Advanced Scaling Strategies",
+    "modules_completed": 11,
+    "modules_total": 12,
+    "completion_percentage": 91.7,
+    "last_activity": "2026-01-05T13:29:39.520420Z",
+    "enrolled_date": "2026-01-24"
+  },
+  {
+    "user_email": "cwood@example.org",
+    "course_name": "Facebook Ads Blueprint",
+    "modules_completed": 2,
+    "modules_total": 8,
+    "completion_percentage": 25.0,
+    "last_activity": "2025-12-11T22:16:29.061739Z",
+    "enrolled_date": "2026-01-24"
+  },
+  {
+    "user_email": "christinebyrd@example.net",
+    "course_name": "Advanced Scaling Strategies",
+    "modules_completed": 8,
+    "modules_total": 15,
+    "completion_percentage": 53.3,
+    "last_activity": "2025-12-28T07:50:36.053056Z",
+    "enrolled_date": "2026-01-28"
+  },
+  {
+    "user_email": "christinebyrd@example.net",
+    "course_name": "Supplier Negotiation",
+    "modules_completed": 10,
+    "modules_total": 10,
+    "completion_percentage": 100.0,
+    "last_activity": "2025-12-07T03:07:44.286013Z",
+    "enrolled_date": "2026-01-28"
+  },
+  {
+    "user_email": "christinebyrd@example.net",
+    "course_name": "Facebook Ads Blueprint",
+    "modules_completed": 12,
+    "modules_total": 12,
+    "completion_percentage": 100.0,
+    "last_activity": "2025-12-20T19:51:55.090728Z",
+    "enrolled_date": "2026-01-28"
+  },
+  {
+    "user_email": "tracynelson@example.com",
+    "course_name": "Advanced Scaling Strategies",
+    "modules_completed": 5,
+    "modules_total": 8,
+    "completion_percentage": 62.5,
+    "last_activity": "2026-02-02T08:02:14.391019Z",
+    "enrolled_date": "2026-01-29"
+  },
+  {
+    "user_email": "rsims@example.com",
+    "course_name": "Product Research Mastery",
+    "modules_completed": 9,
+    "modules_total": 10,
+    "completion_percentage": 90.0,
+    "last_activity": "2026-02-03T09:44:43.984185Z",
+    "enrolled_date": "2026-01-29"
+  },
+  {
+    "user_email": "rsims@example.com",
+    "course_name": "Store Builder Fundamentals",
+    "modules_completed": 3,
+    "modules_total": 12,
+    "completion_percentage": 25.0,
+    "last_activity": "2026-01-16T13:04:11.029061Z",
+    "enrolled_date": "2026-01-29"
+  }
+]

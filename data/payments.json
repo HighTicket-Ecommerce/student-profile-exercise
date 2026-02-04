@@ -1,0 +1,194 @@
+[
+  {
+    "customer_email": "howardshaun@example.net",
+    "amount_cents": 499700,
+    "currency": "usd",
+    "created_at": "2025-12-22T19:00:25.820446Z",
+    "status": "refunded",
+    "description": "Coaching Session"
+  },
+  {
+    "customer_email": "howardshaun@example.net",
+    "amount_cents": 299700,
+    "currency": "usd",
+    "created_at": "2025-09-02T18:16:42.012203Z",
+    "status": "succeeded",
+    "description": "Coaching Session"
+  },
+  {
+    "customer_email": "howardshaun@example.net",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2025-09-06T03:43:04.043406Z",
+    "status": "succeeded",
+    "description": "VIP Upgrade"
+  },
+  {
+    "customer_email": "howardshaun@example.net",
+    "amount_cents": 499700,
+    "currency": "usd",
+    "created_at": "2025-11-18T10:32:25.023537Z",
+    "status": "refunded",
+    "description": "Monthly Subscription"
+  },
+  {
+    "customer_email": "harrellkenneth@example.net",
+    "amount_cents": 199700,
+    "currency": "usd",
+    "created_at": "2025-11-18T08:11:13.513938Z",
+    "status": "refunded",
+    "description": "Store Builder Program"
+  },
+  {
+    "customer_email": "harrellkenneth@example.net",
+    "amount_cents": 99700,
+    "currency": "usd",
+    "created_at": "2026-01-12T11:45:36.037933Z",
+    "status": "succeeded",
+    "description": "Coaching Session"
+  },
+  {
+    "customer_email": "craigjoseph@example.net",
+    "amount_cents": 499700,
+    "currency": "usd",
+    "created_at": "2025-09-03T19:27:24.673010Z",
+    "status": "succeeded",
+    "description": "Course Bundle"
+  },
+  {
+    "customer_email": "craigjoseph@example.net",
+    "amount_cents": 499700,
+    "currency": "usd",
+    "created_at": "2025-12-18T06:08:10.590933Z",
+    "status": "refunded",
+    "description": "VIP Upgrade"
+  },
+  {
+    "customer_email": "steven17@example.org",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2026-01-24T13:06:50.616613Z",
+    "status": "succeeded",
+    "description": "Store Builder Program"
+  },
+  {
+    "customer_email": "steven17@example.org",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2025-08-15T18:29:26.134757Z",
+    "status": "succeeded",
+    "description": "Monthly Subscription"
+  },
+  {
+    "customer_email": "steven17@example.org",
+    "amount_cents": 99700,
+    "currency": "usd",
+    "created_at": "2025-12-23T13:26:15.420075Z",
+    "status": "succeeded",
+    "description": "Course Bundle"
+  },
+  {
+    "customer_email": "vanessabuchanan@example.org",
+    "amount_cents": 499700,
+    "currency": "usd",
+    "created_at": "2025-09-19T05:02:11.563062Z",
+    "status": "succeeded",
+    "description": "Monthly Subscription"
+  },
+  {
+    "customer_email": "vanessabuchanan@example.org",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2025-09-25T01:53:58.854044Z",
+    "status": "succeeded",
+    "description": "VIP Upgrade"
+  },
+  {
+    "customer_email": "dsanchez@example.net",
+    "amount_cents": 299700,
+    "currency": "usd",
+    "created_at": "2025-09-19T14:50:15.337976Z",
+    "status": "succeeded",
+    "description": "Coaching Session"
+  },
+  {
+    "customer_email": "cwood@example.org",
+    "amount_cents": 199700,
+    "currency": "usd",
+    "created_at": "2025-12-06T20:10:00.251346Z",
+    "status": "succeeded",
+    "description": "VIP Upgrade"
+  },
+  {
+    "customer_email": "cwood@example.org",
+    "amount_cents": 299700,
+    "currency": "usd",
+    "created_at": "2025-11-09T17:08:28.093758Z",
+    "status": "refunded",
+    "description": "Store Builder Program"
+  },
+  {
+    "customer_email": "cwood@example.org",
+    "amount_cents": 99700,
+    "currency": "usd",
+    "created_at": "2025-12-28T22:59:10.029682Z",
+    "status": "succeeded",
+    "description": "Monthly Subscription"
+  },
+  {
+    "customer_email": "christinebyrd@example.net",
+    "amount_cents": 99700,
+    "currency": "usd",
+    "created_at": "2025-10-17T08:26:21.045911Z",
+    "status": "succeeded",
+    "description": "VIP Upgrade"
+  },
+  {
+    "customer_email": "christinebyrd@example.net",
+    "amount_cents": 99700,
+    "currency": "usd",
+    "created_at": "2026-01-20T17:12:48.033572Z",
+    "status": "succeeded",
+    "description": "Course Bundle"
+  },
+  {
+    "customer_email": "tracynelson@example.com",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2026-01-14T04:10:53.413462Z",
+    "status": "succeeded",
+    "description": "Coaching Session"
+  },
+  {
+    "customer_email": "rsims@example.com",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2025-08-15T16:15:54.872392Z",
+    "status": "succeeded",
+    "description": "Monthly Subscription"
+  },
+  {
+    "customer_email": "rsims@example.com",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2025-12-03T05:30:13.891989Z",
+    "status": "refunded",
+    "description": "Coaching Session"
+  },
+  {
+    "customer_email": "rsims@example.com",
+    "amount_cents": 997000,
+    "currency": "usd",
+    "created_at": "2025-08-27T01:48:32.400566Z",
+    "status": "succeeded",
+    "description": "Monthly Subscription"
+  },
+  {
+    "customer_email": "rsims@example.com",
+    "amount_cents": 499700,
+    "currency": "usd",
+    "created_at": "2026-01-29T19:32:37.665805Z",
+    "status": "succeeded",
+    "description": "Course Bundle"
+  }
+]
